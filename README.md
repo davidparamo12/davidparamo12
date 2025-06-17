@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I am David Páramo from Bogotá, Colombia
 
-<!--
-**davidparamo12/davidparamo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast and entrepreneur with a passion for transforming ideas into impactful projects. I want to help business run smooth and strong.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Automating real estate data collection.
+- 🌱 I’m currently learning Machine Learning, Data Engineering and Django.
+- 👯 I’m looking to collaborate on financial, logistics and marketing projects.
+- 🤔 I’m looking for help with front end development.
+- 💬 Ask me about Python, Machine Learning, Business Analytics. 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-paramo-rozo-2b4a8218a/) | [Email](david.paramo.rozo@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am really good CNC machinist!
 -->
