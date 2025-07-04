@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am really good CNC machinist!
 -->
+
+SKILLS-
+
+Python | MySQL | Power BI | Google Cloud | Django | Streamlit | Adobe
